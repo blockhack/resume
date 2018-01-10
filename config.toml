@@ -127,7 +127,7 @@ author = "Kenny Yao"
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "**Serial Entrepreneur, Former Hacker, Coding Addict.** Full stack Developer and Lead Engineer at Xiang Xin(http://xiang.xin). Master’s degree at Xidian University major in network/system attack and defense. With 6-plus years of engineering experience, 3-plus years of hands-on technical/product leadership experience, I am a seasoned developer as well as UX expert of product development."
+        summary = "**Serial Entrepreneur, Former Hacker, Coding Addict.** Full stack Developer and Lead Engineer at Xiang Xin(http://xiang.xin). Master’s degree at Xidian University major in network/system attack and defense. 6-plus years of engineering experience, 3-plus years of hands-on technical/product leadership experience, made me a seasoned developer as well as UX expert of product development."
 
     # Experiences section
     [params.experiences]
