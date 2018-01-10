@@ -4,6 +4,7 @@ baseurl = "/"
 languageCode = "zh-cn"
 title = "Kenny Yao"
 theme = "orbit"
+publishDir = "docs"
 # googleAnalytics = "UA-XXXXXXX-Y"
 
 # Do not build files for websites. Need them? Set to false
