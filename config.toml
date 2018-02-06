@@ -58,20 +58,20 @@ author = "Kenny Yao"
         [[params.contact.list]]
         class = "github"
         icon = "fa-github"
-        url = "//github.com/thatk"
-        title = "github.com/thatk"
+        url = "//github.com/blockhack"
+        title = "github.com/blockhack"
 
         [[params.contact.list]]
         class = "linkedin"
         icon = "fa-linkedin"
-        url = "https://www.linkedin.com/in/thatk"
-        title = "@kenny"
+        url = "https://www.linkedin.com/in/blockhack"
+        title = "@blockhack"
 
         [[params.contact.list]]
         class = "instagram"
         icon = "fa-instagram"
-        url = "//www.instagram.com/gxxoogle"
-        title = "@gxxoogle"
+        url = "//www.instagram.com/blockhacker"
+        title = "@blockhacker"
 
     # Education section
     [params.education]
@@ -200,7 +200,7 @@ author = "Kenny Yao"
         level = "95%"
 
         [[params.skills.list]]
-        skill = "JavaScript"
+        skill = "Front End"
         level = "95%"
 
         [[params.skills.list]]
