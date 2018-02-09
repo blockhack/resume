@@ -13,7 +13,7 @@ disableKinds=["404", "sitemap", "RSS"]
 [params]
 
 # Meta
-description = "This is Kenny's online resume."
+description = "Kenny Yao's online resume."
 author = "Kenny Yao"
 
 # Theme styles
