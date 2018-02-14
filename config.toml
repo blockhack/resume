@@ -196,15 +196,11 @@ author = "Kenny Yao"
         level = "95%"
 
         [[params.skills.list]]
-        skill = "PHP"
-        level = "95%"
-
-        [[params.skills.list]]
         skill = "Front End"
         level = "95%"
 
         [[params.skills.list]]
-        skill = "HTML & CSS"
+        skill = "PHP"
         level = "95%"
 
         [[params.skills.list]]
