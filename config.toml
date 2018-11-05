@@ -61,12 +61,6 @@ author = "Kenny Yao"
         url = "https://www.linkedin.com/in/blockhack"
         title = "@blockhack"
 
-        [[params.contact.list]]
-        class = "instagram"
-        icon = "fa-instagram"
-        url = "//www.instagram.com/blockhacker"
-        title = "@blockhacker"
-
     # Education section
     [params.education]
         enable = true
