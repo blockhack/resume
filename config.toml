@@ -44,12 +44,6 @@ author = "Kenny Yao"
         title = "k@m.fish"
 
         [[params.contact.list]]
-        class = "phone"
-        icon = "fa-phone"
-        url = "tel:+8618501252333"
-        title = "18501252333"
-
-        [[params.contact.list]]
         class = "website"
         icon = "fa-globe"
         url = "http://blog.kenny.cc"
